@@ -41,6 +41,3 @@ FROM employees;
 
 --
 
-
-
-
